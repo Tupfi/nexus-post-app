@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+Nach jedem hinzufügen eines Features, oder größeren Änderungen an der Code-Base sollen diese zu Git gepushed werden.
